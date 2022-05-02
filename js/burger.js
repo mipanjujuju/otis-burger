@@ -1,0 +1,97 @@
+const products = [
+    {
+        id: 0,
+        name: "Mini chicken burger",
+        description: "chiflă, fileu de pui, cașcaval, salată, roșii, sos, ardei dulce",
+        price: 40,
+        imgSrc:"../images/burger/burger1.png",
+        hide: "hide1()",
+        show: "show1()",
+        info: "info-container-1",
+        shop: "shop-container-1",
+    },
+
+    {
+        id: 1,
+        name: "Mini cheeseburger",
+        description: "chiflă, pârjoală, cașcaval, salată, roșii, castraveți murați, ceapă, sos",
+        price: 40,
+        imgSrc:"../images/burger/burger2.png",
+        hide: "hide2()",
+        show: "show2()",
+        info: "info-container-2",
+        shop: "shop-container-2",
+    },
+
+    {
+        id: 2,
+        name: "Chicken burger",
+        description: "chiflă, fileu de pui, cașcaval, salată, roșii, sos, ardei dulce",
+        price: 55,
+        imgSrc:"../images/burger/burger3.png",
+        hide: "hide3()",
+        show: "show3()",
+        info: "info-container-3",
+        shop: "shop-container-3",
+    },
+
+    {
+        id: 3,
+        name: "Classic burger",
+        description: "chiflă, pârjoală, cașcaval, salată, roșii, castraveți murați, ceapă, sos",
+        price: 55,
+        imgSrc:"../images/burger/burger4.png",
+        hide: "hide4()",
+        show: "show4()",
+        info: "info-container-4",
+        shop: "shop-container-4",
+    },
+
+    {
+        id: 4,
+        name: "Chilly burger",
+        description: "chiflă, pârjoală, salată, roșii, sos chili, ardei iute, castraveți murați, ceapă",
+        price: 65,
+        imgSrc:"../images/burger/burger5.png",
+        hide: "hide5()",
+        show: "show5()",
+        info: "info-container-5",
+        shop: "shop-container-5",
+    },
+
+    {
+        id: 5,
+        name: "Black burger",
+        description: "chiflă, pârjoală, salată, roșii, sos chili, ardei iute, castraveți murați, ceapă",
+        price: 65,
+        imgSrc:"../images/burger/burger6.png",
+        hide: "hide6()",
+        show: "show6()",
+        info: "info-container-6",
+        shop: "shop-container-6",
+    },
+
+    {
+        id: 6,
+        name: "Oti’s burger",
+        description: "chiflă, pârjoală, dublu cașcaval, ceapă, becon, salată, sos, castraveți murați",
+        price: 75,
+        imgSrc:"../images/burger/burger7.png",
+        hide: "hide7()",
+        show: "show7()",
+        info: "info-container-7",
+        shop: "shop-container-7",
+    },
+
+    {
+        id: 7,
+        name: "Double burger",
+        description: "chiflă, pârjoală 2 bucăți, salată, roșii, castraveți murați, ceapă, sos",
+        price: 85,
+        imgSrc:"../images/burger/burger8.png",
+        hide: "hide8()",
+        show: "show8()",
+        info: "info-container-8",
+        shop: "shop-container-8",
+    }
+]
